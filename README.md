@@ -24,3 +24,8 @@ You can just clone this repository or follow the steps below to add in your own 
 - Add Game.cpp to the Source Files
 - Press F5 to build and run the game
 
+## Screen Shots
+
+![Game Screenshot 1](screenshots/screenshot-1.png)
+![Game Screenshot 2](screenshots/screenshot-2.png)
+
