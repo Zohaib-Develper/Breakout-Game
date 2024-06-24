@@ -13,7 +13,7 @@ The Breakout Game is a simple yet engaging game where the player controls a padd
 
 ## Requirements
 
-- C++ compiler (e.g., GCC)
+- C++ compiler
 - `youregraphics.h` header file (included in the repository)
 
 ## How to run
@@ -21,7 +21,6 @@ You can just clone this repository or follow the steps below to add in your own 
 
 - Create a new Empty C++ Project
 - Add the youregraphics.h library to the Header Files
-- Add Source.cpp to the Source Files
-- Also copy the bgsound.wav and hit.wav files to the project directory for background music and hit sound
+- Add Game.cpp to the Source Files
 - Press F5 to build and run the game
 
